@@ -1,0 +1,3 @@
+Func main()
+    write(10);
+Endfunc
